@@ -1,0 +1,13 @@
+MNIST-full/
+__pycache__/
+*.zip
+*.pt
+*.pkl
+*.h5
+*.log
+*.DS_Store
+results/*.npy
+results/*.npz
+results/*.pkl
+!results/*.txt
+!results/*.png
