@@ -1,0 +1,3 @@
+Best CNN params: kernel=7, conv_layers=3, lr=0.001
+Validation Accuracy: 0.9901
+Test Accuracy: 0.9904
