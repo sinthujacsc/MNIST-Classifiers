@@ -1,0 +1,3 @@
+Best MLP params: hidden_size=256, lr=0.001
+Validation Accuracy: 0.9729
+Test Accuracy: 0.9743
